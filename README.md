@@ -1,8 +1,8 @@
 
 This is the ReadMe File. 
-echo "# MyApsNetCoreSeed" >> README.md
+echo "# MyApsNetCoreSeedAngularMinimal" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/fmukendi/MyApsNetCoreSeed.git
+git remote add origin https://github.com/fmukendi/MyApsNetCoreSeedAngularMinimal.git
 git push -u origin master
